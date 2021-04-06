@@ -1,0 +1,8 @@
+1 #nom_a #prenom_a #email_a #adresse_a #2
+2 #nom_a #prenom_c #email_c #adresse_c #2
+3 #nom_d #prenom_d #email_d #adresse_d #0
+4 #nom_e #prenom_e #email_e #adresse_e #2
+5 #nom_f #prenom_f #email_f #adresse_f #1
+
+8 #jklf #fd,kjl #jkdfs #nkdfgf #2
+99 #gfd #fdxh #gbfdxhf #gfdhfd #2

@@ -1,0 +1,5 @@
+3 #titre_c #cuisine #auteur_p3 #auteur_n3 #1
+1 #titre_a #droit #auteur_p1 #auteur_n2 #-1
+2 #titre_b #droit #auteur_p2 #auteur_n2 #2
+5 #titre_e #droit #auteur_n6 #auteur_n5 #3
+4 #titre_d #litterature #auteur_p4 #auteur_n4 #-1

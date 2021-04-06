@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1612906273 source:c:\users\jouha\desktop\houda_aicha\main.c
+	"myfiles.h"
+
+1612912531 c:\users\jouha\desktop\houda_aicha\myfiles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+
+1612952128 source:c:\users\jouha\desktop\houda_aicha\functions_proj.c
+	"myfiles.h"
+
+1612947927 source:c:\users\jouha\desktop\houda_aicha\functionsliv.c
+	"myfiles.h"
+
+1612946067 source:c:\users\jouha\desktop\houda_aicha\gestion_des_emprunts.c
+	"myfiles.h"
+
+1612831514 source:c:\users\jouha\desktop\houda_aicha\style.c
+	"myfiles.h"
+
